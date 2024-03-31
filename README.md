@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# Name: Shivaram M.
+# Reg.No: 212223040195
 
 # Aim : 
 
